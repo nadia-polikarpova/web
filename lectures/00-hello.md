@@ -292,7 +292,7 @@ to create programs that are:
 
 ## Goal: How to Design new Languages
 
-New hot lanuages being designed in industry as we speak:
+New hot languages being designed in industry as we speak:
 
 - Flow, React @ Facebook     
 - Rust @ Mozilla, 
